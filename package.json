@@ -1,0 +1,23 @@
+{
+  "name": "1_api",
+  "version": "1.0.0",
+  "description": "1_api for dynamic security varification form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.3",
+    "nodemailer": "^6.5.0"
+  }
+}
